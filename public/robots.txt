@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /user/postadd
+Disallow: /login
+Disallow: /signup
+Disallow: /user_images
